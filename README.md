@@ -1,2 +1,0 @@
-# our-product
-food supplement
